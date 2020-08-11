@@ -1,34 +1,28 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About LEEJISU
+tags: [about]
+date: 2020-08-11
 comments: false
 ---
     
-<center><a href="https://leejisu-dev.github.io/"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>개발자 이지수 입니다.</center>
+
+{% my images %}
+    assets/img/logo.png
+{% end images %}
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](https://leejisu-dev.github.io/) hosted on GitHub.
+* 1994.08.19
+* 자격증
+	1. 정보처리기사
+	2. 新JLPT 2급
+* 한남대학교 컴퓨터공학 전공
+* JSL 인재개발원 27기
+* 일본 (주) 아이비넷 2년 재직 (2018.10 ~ 2020.09)
+  * (주) IBM의 법인 안건관리 시스템 유지보수 (2018.10 ~ 2019.12)
+  * (주) IBM의 경리 EOSL 개발 ( 2019.02 ~ 2020.09)
 
 
-[Install Moon](https://leejisu-dev.github.io/){: .btn}
+
+[포트폴리오](_data/포트폴리오.pdf){: .btn}
