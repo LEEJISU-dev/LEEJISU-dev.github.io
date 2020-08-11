@@ -8,7 +8,7 @@ comments: false
     
 <center>" 발전하는 개발자 이지수 입니다. "</center>
 
-    '../assets/img/logo.png'
+<img src="../assets/img/logo.png"></img>
 
 
 ## Features
@@ -23,4 +23,4 @@ comments: false
   * 2. 新JLPT 2급
 
 
-[포트폴리오](../_data/포트폴리오.pdf){: .btn}
+[포트폴리오](../assets/포트폴리오.pdf){: .btn}
