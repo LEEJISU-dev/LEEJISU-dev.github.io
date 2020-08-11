@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About LEEJISU
-tags: [about]
+tags: [about, Jekyll, theme, moon]
 date: 2020-08-11
 comments: false
 ---
