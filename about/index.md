@@ -8,9 +8,9 @@ comments: false
     
 <center>개발자 이지수 입니다.</center>
 
-{% my images %}
+{% capture images %}
     assets/img/logo.png
-{% end images %}
+{% endcapture %}
 
 ## Features
 * 1994.08.19
