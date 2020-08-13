@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About LEE JISU
+title: About
 tags: [about, Jekyll, theme, moon]
 date: 2020-08-11
 comments: false
 ---
     
-<center>" 발전하는 개발자 이지수 입니다. "</center>
+<center>" 개발자 이지수 입니다. "</center>
 
-<img src="../assets/img/logo.png">
+<img src="../assets/img/about_img.jpg">
 
 
 ## Features
