@@ -5,11 +5,10 @@ tags: [about, Jekyll, theme, moon]
 date: 2020-08-11
 comments: false
 ---
-    
-<center>" 개발자 이지수 입니다. "</center>
 
 <img src="../assets/img/about_img.jpg">
 
+<center>" 개발자 이지수 입니다. "</center>
 
 ## Features
 * 1994 . 08 . 19
